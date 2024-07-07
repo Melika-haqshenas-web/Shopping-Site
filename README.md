@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Shopping Site
 
-## Getting Started
+🏬**Sell your Products with this site and put money in your pocket**
 
-First, run the development server:
+![1](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/bc793fda-4f97-4196-8852-90ede3bc88aa)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![2](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/1b649b0d-a6fc-419d-a1d3-49c1e44d2ae5)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![3](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/a32aa047-37b8-43f7-9dde-ac1f3f2499fd)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![4](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/9bd39a0f-94b5-4b95-8c87-cbec38a1a85c)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![5](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/26b8cba5-802a-40d5-a840-a24865fe7d1e)
 
-## Learn More
+![6](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/fdd9aca3-0609-4b2f-8685-78ea34ce3888)
 
-To learn more about Next.js, take a look at the following resources:
+![7](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/bdd649b5-351f-48cf-ac62-6bbe4bf069a7)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Demo Project](https://lrfnr2-3000.csb.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👩‍💻- Developed by Melika-haqshenas-web
 
-## Deploy on Vercel
+📅- Created - 2024-03-07
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+⌨- Technologies Used - React , Next , Tailwind , Html , Css , Responsive
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Hooks Used : useState 
+
+- Role - Frontend
+
+🖱- How to reach me : with my [instagram](https://www.instagram.com/melika.haqshenas_web/) and [linkedin](https://www.linkedin.com/in/melika-haqshenas-web/)
