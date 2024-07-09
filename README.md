@@ -22,7 +22,7 @@
 
 📅- Created - 2024-03-07
 
-⌨- Technologies Used - React , Next , Swiper-Slider , Tailwind , React-icon , Html , Css , Responsive
+⌨- Technologies Used - React , Next , Swiper-Slider , Tailwind , React-icon , Html , Css , Responsive , Api
 
 - Hooks Used : useState 
 
