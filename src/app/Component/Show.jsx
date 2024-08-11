@@ -32,9 +32,17 @@ export default function Show({ products }) {
     let localStorageKey = 'likedProducts';
 
 
-    const savedLikes = getProducts("likedProducts");
+    let savedLikes = getProducts("likedProducts");
     useEffect(() => {
         setLikedProductsState(savedLikes);
+        if(likedProducts?.length > 0){
+            setProducts("likedProducts", likedProducts)
+        }else if((!savedLikes || Object.keys(savedLikes).length === 0) && products.length > 0){
+            savedLikes = { [products[0].id]: true };
+            setProducts("likedProducts", savedLikes);
+        }
+        // setProducts("likedProducts", likedProducts?.length > 0 ? likedProducts :  [products[0]: true ])
+
     }, []);
 
 
