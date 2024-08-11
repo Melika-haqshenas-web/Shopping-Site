@@ -32,12 +32,12 @@ export default function Show({ products }) {
 
     useEffect(() => {
         let savedLikes = getProducts("likedProducts");
-        if (!savedLikes) {
+        if (!savedLikes && products.length > 0) {
             savedLikes = { [products[0].id]: true }; // Initialize with the first product liked
             setProducts("likedProducts", savedLikes);
         }
-        setLikedProductsState(savedLikes);
-    }, []);
+        setLikedProductsState(savedLikes || {});
+    }, [products]);
 
     useEffect(() => {
         setProducts("likedProducts", likedProducts);
