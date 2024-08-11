@@ -16,7 +16,7 @@
 
 ![7](https://github.com/Melika-haqshenas-web/Shopping-Site/assets/126666369/bdd649b5-351f-48cf-ac62-6bbe4bf069a7)
 
-- [Demo Project](https://lrfnr2-3000.csb.app/)
+- [Demo Project](https://shopping-site-black.vercel.app/)
 
 👩‍💻- Developed by Melika-haqshenas-web
 
