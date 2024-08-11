@@ -29,27 +29,20 @@ export default function Show({ products }) {
     const [pop, setPop] = useState(false)
     const [addPop , setAddPop] = useState(false)
     const [view, setView] = useState(false)
-    let localStorageKey = 'likedProducts';
 
-
-    let savedLikes = getProducts("likedProducts");
     useEffect(() => {
-        setLikedProductsState(savedLikes);
-        if(likedProducts?.length > 0){
-            setProducts("likedProducts", likedProducts)
-        }else if((!savedLikes || Object.keys(savedLikes).length === 0) && products.length > 0){
-            savedLikes = { [products[0].id]: true };
+        let savedLikes = getProducts("likedProducts");
+        if (!savedLikes) {
+            savedLikes = { [products[0].id]: true }; // Initialize with the first product liked
             setProducts("likedProducts", savedLikes);
         }
-        // setProducts("likedProducts", likedProducts?.length > 0 ? likedProducts :  [products[0]: true ])
-
+        setLikedProductsState(savedLikes);
     }, []);
 
-
     useEffect(() => {
-        setProducts("likedProducts", likedProducts?.length || likedProducts)
+        setProducts("likedProducts", likedProducts);
     }, [likedProducts]);
-
+    
     useEffect(() => {
         if (view) {
           document.body.style.overflow = 'hidden';
