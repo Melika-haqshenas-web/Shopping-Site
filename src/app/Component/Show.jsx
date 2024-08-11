@@ -29,6 +29,7 @@ export default function Show({ products }) {
     const [pop, setPop] = useState(false)
     const [addPop , setAddPop] = useState(false)
     const [view, setView] = useState(false)
+    let localStorageKey = 'likedProducts';
 
     useEffect(() => {
         let savedLikes = getProducts("likedProducts");
