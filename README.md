@@ -22,7 +22,7 @@
 
 📅- Created - 2024-11-4
 
-⌨- Technologies Used: Html , css , js , React.jsx , Next.jsx , Formik , yup , Zustand , Tailwind , recharts , react-icons , Responsive , Api-rest , mockApi
+⌨- Technologies Used: Html , css , js , React.jsx , Next.jsx , Swiper-Slider , Tailwind , react-icons , Responsive , Api-rest , Fech-Api
 
 - Hooks Used : useState 
 
