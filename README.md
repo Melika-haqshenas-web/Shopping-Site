@@ -1,40 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Shopping-Site
 
-## Getting Started
+**🏬🧾Discover a seamless Shopping experience crafted by a passionate frontend developer, where style meets functionality**
 
-First, run the development server:
+![1](https://github.com/user-attachments/assets/98f38ad4-27ba-490a-a55d-6e416bbe1629)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![2](https://github.com/user-attachments/assets/eb1411a1-cc40-42ff-a4a9-11324d453447)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![3](https://github.com/user-attachments/assets/4626f22a-ba45-4c5a-8876-d7beee414bb7)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![4](https://github.com/user-attachments/assets/f5653648-0b8e-4210-8355-0996a515044b)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![5](https://github.com/user-attachments/assets/5bf69b54-63a7-4ebf-a452-7b0d400f0b2f)
 
-## Learn More
+![6](https://github.com/user-attachments/assets/9926ba6d-7e35-4cee-a774-a38834be0e69)
 
-To learn more about Next.js, take a look at the following resources:
+![7](https://github.com/user-attachments/assets/cb4324f1-21e8-44b4-ae80-ccb7ec105c18)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Demo Project](https://shopping-site-ivpy.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👩‍💻- Developed by Melika Haqshenas
 
-## Deploy on Vercel
+📅- Created - 2024-11-9
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+⌨- Technologies Used: Html , css , js , React.jsx , Next.jsx , Swiper-Slider , Tailwind , react-icons , Responsive , Api-rest , Fech-Api
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# Shoping-Site" 
-"# Shoping-Site" 
-"# Shopping-Site" 
-"# Shopping-Site" 
+- Hooks Used : useState 
+
+- Role - Frontend
+
+🖱- How to reach me : with my [instagram](https://www.instagram.com/melika.haqshenas_web/) and [linkedin](https://www.linkedin.com/in/melika-haqshenas-web/)
