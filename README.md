@@ -2,21 +2,21 @@
 
 **🏬🧾Discover a seamless Shopping experience crafted by a passionate frontend developer, where style meets functionality**
 
-![1](https://github.com/user-attachments/assets/98f38ad4-27ba-490a-a55d-6e416bbe1629)
+![1](https://github.com/user-attachments/assets/a449795d-9047-46e3-a678-0f1351e8e3dc)
 
-![2](https://github.com/user-attachments/assets/eb1411a1-cc40-42ff-a4a9-11324d453447)
+![2](https://github.com/user-attachments/assets/97cfc20e-4167-45f5-961c-ced7f12f306c)
 
-![3](https://github.com/user-attachments/assets/4626f22a-ba45-4c5a-8876-d7beee414bb7)
+![3](https://github.com/user-attachments/assets/eb0387b7-4f4b-458f-adf3-481a869457c4)
 
-![4](https://github.com/user-attachments/assets/f5653648-0b8e-4210-8355-0996a515044b)
+![4](https://github.com/user-attachments/assets/3484a97c-2597-4f5a-9270-044d80126518)
 
-![5](https://github.com/user-attachments/assets/5bf69b54-63a7-4ebf-a452-7b0d400f0b2f)
+![5](https://github.com/user-attachments/assets/d5a0d1eb-8990-4951-908c-760c400b276e)
 
-![6](https://github.com/user-attachments/assets/9926ba6d-7e35-4cee-a774-a38834be0e69)
+![6](https://github.com/user-attachments/assets/42cf6c70-d6d9-4cbb-80f5-cfed37bf2c90)
 
-![7](https://github.com/user-attachments/assets/cb4324f1-21e8-44b4-ae80-ccb7ec105c18)
+![7](https://github.com/user-attachments/assets/3de32bce-cccd-49f5-9b65-1fa089c49a87)
 
-- [Demo Project](https://shopping-site-ivpy.vercel.app/)
+- [Demo Project](https://shopping-site-vtci.vercel.app/)
 
 👩‍💻- Developed by Melika Haqshenas
 
